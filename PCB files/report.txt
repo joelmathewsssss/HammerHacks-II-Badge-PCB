@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\joela\Documents\GitHub\HammerHacks II Badge PCB\PCB files\fab\HammerHacks II Badge PCB-F_Cu.gbr'.
+Plotted to 'C:\Users\joela\Documents\GitHub\HammerHacks II Badge PCB\PCB files\fab\HammerHacks II Badge PCB-B_Cu.gbr'.
+Plotted to 'C:\Users\joela\Documents\GitHub\HammerHacks II Badge PCB\PCB files\fab\HammerHacks II Badge PCB-F_Paste.gbr'.
+Plotted to 'C:\Users\joela\Documents\GitHub\HammerHacks II Badge PCB\PCB files\fab\HammerHacks II Badge PCB-B_Paste.gbr'.
+Plotted to 'C:\Users\joela\Documents\GitHub\HammerHacks II Badge PCB\PCB files\fab\HammerHacks II Badge PCB-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\joela\Documents\GitHub\HammerHacks II Badge PCB\PCB files\fab\HammerHacks II Badge PCB-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\joela\Documents\GitHub\HammerHacks II Badge PCB\PCB files\fab\HammerHacks II Badge PCB-F_Mask.gbr'.
+Plotted to 'C:\Users\joela\Documents\GitHub\HammerHacks II Badge PCB\PCB files\fab\HammerHacks II Badge PCB-B_Mask.gbr'.
+Plotted to 'C:\Users\joela\Documents\GitHub\HammerHacks II Badge PCB\PCB files\fab\HammerHacks II Badge PCB-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\joela\Documents\GitHub\HammerHacks II Badge PCB\PCB files\fab\HammerHacks II Badge PCB-job.gbrjob'.
+Info: Done.

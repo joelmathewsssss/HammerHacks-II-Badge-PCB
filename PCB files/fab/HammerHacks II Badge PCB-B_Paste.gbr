@@ -1,0 +1,21 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.1*%
+%TF.CreationDate,2026-03-19T22:20:21-04:00*%
+%TF.ProjectId,HammerHacks II Badge PCB,48616d6d-6572-4486-9163-6b7320494920,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.1) date 2026-03-19 22:20:21*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.270000X5.080000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,BT1*%
+X146515000Y-79002699D03*
+X168485000Y-79002699D03*
+%TD*%
+M02*
