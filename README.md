@@ -55,3 +55,4 @@ Made for Hackers to proudly show their name with HammerHacks swag
     </tr>
   </tbody>
 </table>
+Credits to Rosan Syal for making the design and Merinel Gomez for creating the assets!
