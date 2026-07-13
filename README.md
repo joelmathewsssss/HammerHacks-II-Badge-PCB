@@ -1,10 +1,11 @@
 # HammerHacks II Badge PCB
 
-The official HammerHacks II Hacker Badge
+HammerHacks II Badge PCB
 
-Made for Hackers to proudly show their name with HammerHacks swag
-
-Designed to be a soldering workshop to get students into hardware
+The official HammerHacks II Hacker Badge.
+Made for Hackers to proudly show their name with HammerHacks swag.
+Designed to be a soldering workshop to get students into hardware.
+Simple PCB with LED circuit using coin battery. Includes Hackathon Info.
 
 <img width="897" height="994" alt="image3" src="https://github.com/user-attachments/assets/a426d704-233d-40ef-b259-f289c4e830f2" />
 <img width="824" height="877" alt="image2" src="https://github.com/user-attachments/assets/5a8d314b-1bab-4854-a5dd-23337889f488" />
