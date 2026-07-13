@@ -4,10 +4,17 @@ The official HammerHacks II Hacker Badge
 
 Made for Hackers to proudly show their name with HammerHacks swag
 
-<img width="1487" height="1028" alt="Screenshot 2026-04-06 233326" src="https://github.com/user-attachments/assets/25f819ed-212d-4fae-8c0a-4ee81430d68f" />
-<img width="723" height="629" alt="Screenshot 2026-04-07 000948" src="https://github.com/user-attachments/assets/f8f0698d-c659-4fd6-9dea-62b5cf434d70" />
-<img width="583" height="474" alt="image" src="https://github.com/user-attachments/assets/341697d2-d36e-4376-94ba-3679b7e05531" />
-<img width="690" height="561" alt="image" src="https://github.com/user-attachments/assets/27f84850-818a-4b52-a421-8532a9aa3a4c" />
+Designed to be a soldering workshop to get students into hardware
+
+<img width="897" height="994" alt="image3" src="https://github.com/user-attachments/assets/a426d704-233d-40ef-b259-f289c4e830f2" />
+<img width="824" height="877" alt="image2" src="https://github.com/user-attachments/assets/5a8d314b-1bab-4854-a5dd-23337889f488" />
+<img width="648" height="840" alt="Screenshot 2026-05-07 062815" src="https://github.com/user-attachments/assets/09a6abf4-bfcf-499e-9afb-96236bfeecae" />
+<img width="1512" height="2690" alt="Screenshot 2026-07-12 192727" src="https://github.com/user-attachments/assets/30aaa8ee-92b8-483f-a8a3-cfec7c760939" />
+<img width="1497" height="2661" alt="PXL_20260712_232706811" src="https://github.com/user-attachments/assets/c555bd69-b861-400b-90e5-51832a099a25" />
+
+
+
+
 
 <table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; font-size: 14px">
   <thead>
