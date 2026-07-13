@@ -12,7 +12,7 @@ Designed to be a soldering workshop to get students into hardware
 <img width="1512" height="2690" alt="Screenshot 2026-07-12 192727" src="https://github.com/user-attachments/assets/30aaa8ee-92b8-483f-a8a3-cfec7c760939" />
 <img width="1497" height="2661" alt="PXL_20260712_232706811" src="https://github.com/user-attachments/assets/c555bd69-b861-400b-90e5-51832a099a25" />
 
-
+Demo Vid: https://drive.google.com/file/d/1kAkGNcVEJjuDBygq6s-vyhGiOASqDllP/view?usp=sharing
 
 
 
